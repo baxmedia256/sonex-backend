@@ -1,9 +1,0 @@
-fastapi==0.100.1
-uvicorn[standard]==0.23.2
-stripe==9.5.0
-supabase==1.2.0
-httpx==0.24.1
-httpcore==0.17.3
-python-dotenv==1.0.0
-pydantic==1.10.13
-anyio==3.7.1
